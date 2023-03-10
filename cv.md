@@ -1,11 +1,14 @@
+<image src="https://shweta-yadav15.github.io/img/github-logo.jpg" alt="Описание картинки">
+
 # Ilia Kovalov
 
 ## Contacts
 * Location: Warsaw, Poland
 * Phone: +48 536 702 237
 * Email: ilia.kovalov95@gmail.com
-* GitHub: https://github.com/iliakovalov
-* Linkedin: https://www.linkedin.com/in/ilia-kovalov-149ab7267/
+* GitHub: [iliakovalov](https://github.com/iliakovalov)
+* Linkedin: [Ilia Kovalov CV](https://www.linkedin.com/in/ilia-kovalov-149ab7267/)
+* Discord: ilia#1648
 
 ## About Me
 
