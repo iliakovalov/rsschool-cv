@@ -33,7 +33,7 @@ Test Passed*
 ## Education
 
 * University: Belarusian-Russian University, Civil Engineering, Bachelor's degree
-* HTML Academy https://htmlacademy.ru/study
+* [HTML Academy](https://htmlacademy.ru/study)
 
 ## English
 
