@@ -4,4 +4,28 @@
 * Location: Warsaw, Poland
 * Phone: +48 536 702 237
 * Email: ilia.kovalov95@gmail.com
-* GitHub:(https://github.com/iliakovalov)
+* GitHub:https://github.com/iliakovalov
+
+## About Me
+
+I like asking questions and getting answers. 
+I learn quickly, diligent, I am not afraid of criticism and mistakes.
+
+## Skills
+
+* In the learning process
+
+Code Example
+
+```javascript
+function multiply(a, b){
+ return a * b
+}
+```
+
+*Time: 774ms Passed: 1 Failed: 0
+Test Results:
+Multiply
+fixed tests
+Test Passed*
+
