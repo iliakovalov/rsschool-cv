@@ -4,7 +4,8 @@
 * Location: Warsaw, Poland
 * Phone: +48 536 702 237
 * Email: ilia.kovalov95@gmail.com
-* GitHub:https://github.com/iliakovalov
+* GitHub: https://github.com/iliakovalov
+* Linkedin: https://www.linkedin.com/in/ilia-kovalov-149ab7267/
 
 ## About Me
 
@@ -15,7 +16,7 @@ I learn quickly, diligent, I am not afraid of criticism and mistakes.
 
 * In the learning process
 
-Code Example
+## Code Example
 
 ```javascript
 function multiply(a, b){
@@ -29,3 +30,11 @@ Multiply
 fixed tests
 Test Passed*
 
+## Education
+
+* University: Belarusian-Russian University, Civil Engineering, Bachelor's degree
+* HTML Academy https://htmlacademy.ru/study
+
+## English
+
+A1 (in the process of studying)
